@@ -1,0 +1,11 @@
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.deps.json
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.json
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.runtimeconfig.dev.json
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\bin\Debug\netcoreapp2.0\MvcClient.pdb
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csprojResolveAssemblyReference.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.csproj.CoreCompileInputs.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfoInputs.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.AssemblyInfo.cs
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\MvcClient\obj\Debug\netcoreapp2.0\MvcClient.pdb
