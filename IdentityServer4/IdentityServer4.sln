@@ -3,13 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2024
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{FAEC0766-DF98-438D-872C-B3ACF3A11370}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Server", "Server\Server.csproj", "{FAEC0766-DF98-438D-872C-B3ACF3A11370}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{15935E3C-675E-4937-A6B0-BE1F7C442F6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "API", "API\API.csproj", "{15935E3C-675E-4937-A6B0-BE1F7C442F6A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient1", "ConsoleClient1\ConsoleClient1.csproj", "{AD241F92-1F77-4942-949A-5E9C5AB91364}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient2", "ConsoleApp2\ConsoleClient2.csproj", "{D33B2CFE-B2C6-49A4-94CD-01A453F89670}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleClient2", "ConsoleClient2\ConsoleClient2.csproj", "{D33B2CFE-B2C6-49A4-94CD-01A453F89670}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
