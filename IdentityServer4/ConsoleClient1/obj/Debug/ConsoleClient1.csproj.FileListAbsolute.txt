@@ -1,0 +1,16 @@
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\ConsoleClient1.exe.config
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\ConsoleClient1.exe
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\ConsoleClient1.pdb
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\IdentityModel.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\System.Net.Http.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\IdentityModel.xml
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\obj\Debug\ConsoleClient1.csprojResolveAssemblyReference.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\obj\Debug\ConsoleClient1.csproj.CoreCompileInputs.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\obj\Debug\ConsoleClient1.exe
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleClient1\obj\Debug\ConsoleClient1.pdb

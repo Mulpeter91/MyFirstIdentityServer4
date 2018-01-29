@@ -1,0 +1,11 @@
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\bin\Debug\netcoreapp2.0\API.deps.json
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.json
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\bin\Debug\netcoreapp2.0\API.runtimeconfig.dev.json
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\bin\Debug\netcoreapp2.0\API.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\obj\Debug\netcoreapp2.0\API.csprojResolveAssemblyReference.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\obj\Debug\netcoreapp2.0\API.csproj.CoreCompileInputs.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\obj\Debug\netcoreapp2.0\API.AssemblyInfoInputs.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\obj\Debug\netcoreapp2.0\API.AssemblyInfo.cs
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\bin\Debug\netcoreapp2.0\API.pdb
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\obj\Debug\netcoreapp2.0\API.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\API\obj\Debug\netcoreapp2.0\API.pdb

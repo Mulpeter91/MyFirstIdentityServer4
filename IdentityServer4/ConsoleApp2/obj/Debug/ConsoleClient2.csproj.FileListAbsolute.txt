@@ -1,0 +1,16 @@
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\IdentityModel.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\System.Net.Http.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\IdentityModel.xml
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\obj\Debug\ConsoleClient2.csprojResolveAssemblyReference.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\obj\Debug\ConsoleClient2.csproj.CoreCompileInputs.cache
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+C:\Users\Rob Mulpeter\Documents\Development\GitRepoIdentityServer\IdentityServer4\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
